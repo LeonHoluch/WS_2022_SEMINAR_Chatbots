@@ -29,3 +29,4 @@
 |A Practical 2-step Approach to Assist Enterprise Question-Answering Live Chat|Liao, Ling-Yen and Fares, Tarec|2021|Liao2021||https://aclanthology.org/2021.sigdial-1.48| Application, IR Methods|
 |{UBAR}: Towards Fully End-to-End Task-Oriented Dialog System with {GPT}-2|Yunyi Yang and Yunhao Li and Xiaojun Quan|2021|Yang2021|[https://doi.org/10.1609/aaai.v35i16.17674](https://doi.org/10.1609/aaai.v35i16.17674)|| TOD System|
 |MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents| Arne Koehn et al.|2020|...||[https://aclanthology.org/2020.sigdial-1.7.pdf](https://aclanthology.org/2020.sigdial-1.7.pdf)||Generierung|
+|Generating Instructions at Different Levels of Abstraction|Arne Köhn et al.|2020|...|[https://aclanthology.org/2020.coling-main.252.pdf](https://aclanthology.org/2020.coling-main.252.pdf)||Generierung|
